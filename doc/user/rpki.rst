@@ -112,8 +112,8 @@ The following commands are independent of a specific cache server.
 
    The default value is 300 seconds.
 
-.. index:: rpki timeout <1-4,294,967,296>
-.. clicmd:: rpki timeout <1-4,294,967,296>
+.. index:: rpki timeout <1-4,294,967,295>
+.. clicmd:: rpki timeout <1-4,294,967,295>
 
 .. index:: no rpki timeout
 .. clicmd:: no rpki timeout
@@ -124,8 +124,8 @@ The following commands are independent of a specific cache server.
 
    The default value is 600 seconds.
 
-.. index:: rpki initial-synchronisation-timeout <1-4,294,967,296>
-.. clicmd:: rpki initial-synchronisation-timeout <1-4,294,967,296>
+.. index:: rpki initial-synchronisation-timeout <1-4,294,967,295>
+.. clicmd:: rpki initial-synchronisation-timeout <1-4,294,967,295>
 
 .. index:: no rpki initial-synchronisation-timeout
 .. clicmd:: no rpki initial-synchronisation-timeout
