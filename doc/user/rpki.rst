@@ -101,8 +101,8 @@ Configuring RPKI/RTR Cache Servers
 
 The following commands are independent of a specific cache server.
 
-.. index:: rpki polling_period (1-3600)
-.. clicmd:: rpki polling_period (1-3600)
+.. index:: rpki polling_period (1-86400)
+.. clicmd:: rpki polling_period (1-86400)
 
 .. index:: no rpki polling_period
 .. clicmd:: no rpki polling_period
